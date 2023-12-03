@@ -9,7 +9,7 @@ Welcome to my Advent of Code repository! Here, you'll find my solutions for the 
 ## 2023
 - [Day 1: Trebuchet?!](2023/day1/problem.md)
 - [Day 2: Cube Conundrum](2023/day2/problem.md)
-- [Day 3: Cube Conundrum](2023/day3/problem.md)
+- [Day 3: Gear Ratios](2023/day3/problem.md)
 
 ## About Advent of Code ☃️
 
